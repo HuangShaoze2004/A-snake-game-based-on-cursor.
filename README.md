@@ -49,4 +49,4 @@ python Snake Game.py
 
 ## 开发者
 
-设计与开发：HuangShaoze 
+设计与开发：黄绍泽 
